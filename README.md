@@ -1,2 +1,2 @@
 Youtube search machine
-https://websolutionslab.github.io/YouTube_ReactRedux_App/
+https://websolutionslab.github.io/youtube-app/
